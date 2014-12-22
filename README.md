@@ -35,485 +35,519 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Tractatus de legibus et consuetudinibus regni Anglie, tempore Regis Henrici secundi compositus, Iust
+
+1. Prologus.
+
 #####Body#####
 
-1. Capitulo. .1.
+1. ¶ Hic incipit liber primus de placitis, que pertinent ad curiam Regis.
 
-1. Cap 2.
+    _ Capitulo. .1.
 
-1. Cap. 3.
+    _ Cap 2.
 
-1. Cap. 4.
+    _ Cap. 3.
 
-1. Cap. 5.
+    _ Cap. 4.
 
-1. Cap. 6.
+    _ Cap. 5.
 
-1. Caput. 7.
+    _ Cap. 6.
 
-1. Cap. 8.
+    _ Caput. 7.
 
-1. Cap. 9.
+    _ Cap. 8.
 
-1. Cap. 10.
+    _ Cap. 9.
 
-1. Cap. 11.
+    _ Cap. 10.
 
-1. Cap. 12,
+    _ Cap. 11.
 
-1. Ca. 13
+    _ Cap. 12,
 
-1. Cap. 14.
+    _ Ca. 13
 
-1. Cap. 15.
+    _ Cap. 14.
 
-1. Ca. 16.
+    _ Cap. 15.
 
-1. Cap. 17.
+    _ Ca. 16.
 
-1. Cap. 18.
+    _ Cap. 17.
 
-1. Cap. 19.
+    _ Cap. 18.
 
-1. Cap. 20.
+    _ Cap. 19.
 
-1. Cap. 21.
+    _ Cap. 20.
 
-1. Cap. 22.
+    _ Cap. 21.
 
-1. Ca. ••.
+    _ Cap. 22.
 
-1. Cap. 24.
+    _ Ca. ••.
 
-1. Cap 25.
+    _ Cap. 24.
 
-1. Cap. 26.
+    _ Cap 25.
 
-1. Cap. 27.
+    _ Cap. 26.
 
-1. Cap, 28.
+    _ Cap. 27.
 
-1. Cap. 29.
+    _ Cap, 28.
 
-1. Cap. 30.
+    _ Cap. 29.
 
-1. Cap. 31.
+    _ Cap. 30.
 
-1. Cap. 32.
+    _ Cap. 31.
 
-1. Cap 33.
+    _ Cap. 32.
 
-1. Capitulo. .1.
+    _ Cap 33.
 
-1. Cap. 2.
+1. LIBER SECVNdus de his que solent contingere circa vel statim post ingressum litis, et de diracionatione tenementi per duellumvel per magnam assisam, et de campionibus, et de his que pertinent ad duellum, vel magnam assisam.
 
-1. Cap. 3.
+    _ Capitulo. .1.
 
-1. Cap. 4.
+    _ Cap. 2.
 
-1. Cap. 5.
+    _ Cap. 3.
 
-1. Cap. 6.
+    _ Cap. 4.
 
-1. Cap. 7.
+    _ Cap. 5.
 
-1. Cap. 8.
+    _ Cap. 6.
 
-1. Cap. 9.
+    _ Cap. 7.
 
-1. Cap. 10.
+    _ Cap. 8.
 
-1. Cap. 11.
+    _ Cap. 9.
 
-1. Cap. 12.
+    _ Cap. 10.
 
-1. Cap. 13.
+    _ Cap. 11.
 
-1. Cap. 14.
+    _ Cap. 12.
 
-1. Cap. 15.
+    _ Cap. 13.
 
-1. Cap. 16.
+    _ Cap. 14.
 
-1. Cap. 17.
+    _ Cap. 15.
 
-1. Cap. 18.
+    _ Cap. 16.
 
-1. Cap. 19.
+    _ Cap. 17.
 
-1. Cap. 20.
+    _ Cap. 18.
 
-1. Cap. 21.
+    _ Cap. 19.
 
-1. Capitulo. .1.
+    _ Cap. 20.
 
-1. Cap. 2.
+    _ Cap. 21.
 
-1. Cap. 3.
+1. ¶HIC INCIPIT liber tercius de vvarrantis et de duobus dominis per quorum alterum se aduocat petens et per alterum tenens
 
-1. Cap. 4.
+    _ Capitulo. .1.
 
-1. Cap. 5.
+    _ Cap. 2.
 
-1. Cap. 6.
+    _ Cap. 3.
 
-1. Cap. 7.
+    _ Cap. 4.
 
-1. Cap. 8.
+    _ Cap. 5.
 
-1. Capitulo. .1.
+    _ Cap. 6.
 
-1. Cap, 2.
+    _ Cap. 7.
 
-1. Cap 3.
+    _ Cap. 8.
 
-1. Cap. 4.
+1. LIBER QVARtus de aduocationibus ecclesiarum.
 
-1. Cap 5.
+    _ Capitulo. .1.
 
-1. Cap, 6,
+    _ Cap, 2.
 
-1. Cap. 7.
+    _ Cap 3.
 
-1. Cap. 8.
+    _ Cap. 4.
 
-1. Cap 9.
+    _ Cap 5.
 
-1. Cap. 10.
+    _ Cap, 6,
 
-1. Cap. 11.
+    _ Cap. 7.
 
-1. Cap. 12.
+    _ Cap. 8.
 
-1. Cap. 13.
+    _ Cap 9.
 
-1. Cap. 14.
+    _ Cap. 10.
 
-1. Cap. 1.
+    _ Cap. 11.
 
-1. Ca, 2.
+    _ Cap. 12.
 
-1. Cap. 3.
+    _ Cap. 13.
 
-1. Cap. 4.
+    _ Cap. 14.
 
-1. Cap. 5.
+1. Liber quintus de questione status et dc natiuis.
 
-1. Cap. 6.
+    _ Cap. 1.
 
-1. Cap. 1.
+    _ Ca, 2.
 
-1. Cap, 2.
+    _ Cap. 3.
 
-1. Cap. 3.
+    _ Cap. 4.
 
-1. Cap. 4.
+    _ Cap. 5.
 
-1. Cap 5.
+    _ Cap. 6.
 
-1. Cap. 6
+1. ¶HIC INCIPIT LIliber sextus de dotibus.
 
-1. Cap. 7.
+    _ Cap. 1.
 
-1. Cap. 8.
+    _ Cap, 2.
 
-1. Cap. 9.
+    _ Cap. 3.
 
-1. Cap. 10.
+    _ Cap. 4.
 
-1. Cap. 11.
+    _ Cap 5.
 
-1. Cap. 12.
+    _ Cap. 6
 
-1. Cap. 13.
+    _ Cap. 7.
 
-1. Cap. 14.
+    _ Cap. 8.
 
-1. Cap. 15.
+    _ Cap. 9.
 
-1. Cap 16.
+    _ Cap. 10.
 
-1. Cap, 17.
+    _ Cap. 11.
 
-1. Cap. 18.
+    _ Cap. 12.
 
-1. Cap. i,
+    _ Cap. 13.
 
-1. Cap. 2.
+    _ Cap. 14.
 
-1. Cap. 3,
+    _ Cap. 15.
 
-1. Cap 4.
+    _ Cap 16.
 
-1. Cap. 5
+    _ Cap, 17.
 
-1. Cap. 6.
+    _ Cap. 18.
 
-1. Cap, 7.
+1. ¶HIC INCIPIT LIber septimus de heredibus legutimis et bastardis masculis aut feminis maioribus siue minoribus et de custodia et priuilegio minorum et de vltimi. heredibus qui sunt domini cum feodum cadi• in manum eorū et de heredibus intestati et de vsurariis et eorum heredibus et de maritagiis et aliis donationibus antecessorum et eorum testamentis et debitis que omnia heredes eorum tenentur vvarrantisare.
 
-1. Ca. 8
+    _ Cap. i,
 
-1. Cap. 9.
+    _ Cap. 2.
 
-1. Cap. 10.
+    _ Cap. 3,
 
-1. Cap. 11.
+    _ Cap 4.
 
-1. Cap. 12.
+    _ Cap. 5
 
-1. Cap. 13.
+    _ Cap. 6.
 
-1. Cap. 14.
+    _ Cap, 7.
 
-1. Cap. 15.
+    _ Ca. 8
 
-1. Cap. 16.
+    _ Cap. 9.
 
-1. Cap. 17.
+    _ Cap. 10.
 
-1. Cap. 18.
+    _ Cap. 11.
 
-1. Cap i.
+    _ Cap. 12.
 
-1. Cap. 2,
+    _ Cap. 13.
 
-1. Cap 3
+    _ Cap. 14.
 
-1. Cap 4.
+    _ Cap. 15.
 
-1. Cap. 5.
+    _ Cap. 16.
 
-1. Cap. 6.
+    _ Cap. 17.
 
-1. Cap, 7.
+    _ Cap. 18.
 
-1. Cap. 8.
+1. ¶HIC INCIPIT LIber octauus de concordia facta in curia, et de cirographis cōcordiam continentibus, et de recordis curie vel curiarum: cum alter vtra partium concordiam et finem factum infregerit
 
-1. Cap. 9
+    _ Cap i.
 
-1. Cap. 10.
+    _ Cap. 2,
 
-1. Cap. 1.
+    _ Cap 3
 
-1. Cap. 2.
+    _ Cap 4.
 
-1. Ca 3.
+    _ Cap. 5.
 
-1. Cap. 4.
+    _ Cap. 6.
 
-1. Cap. 5.
+    _ Cap, 7.
 
-1. Cap. 6.
+    _ Cap. 8.
 
-1. Cap. 7.
+    _ Cap. 9
 
-1. Cap. .8.
+    _ Cap. 10.
 
-1. Cap 9.
+1. ¶HIC INCIPIT LIber nonus de homagiis et releuiis et seruicus et auxilus et de propresturis et limitibus inuasis.
 
-1. Cap. 10.
+    _ Cap. 1.
 
-1. Cap. 11.
+    _ Cap. 2.
 
-1. Cap. 12.
+    _ Ca 3.
 
-1. Cap. 13.
+    _ Cap. 4.
 
-1. Cap. 14.
+    _ Cap. 5.
 
-1. Cap. .i.
+    _ Cap. 6.
 
-1. Cap. 2.
+    _ Cap. 7.
 
-1. Cap. 3.
+    _ Cap. .8.
 
-1. Cap 4.
+    _ Cap 9.
 
-1. Cap. 5.
+    _ Cap. 10.
 
-1. Cap. 6.
+    _ Cap. 11.
 
-1. Cap. 7.
+    _ Cap. 12.
 
-1. Cap. 8.
+    _ Cap. 13.
 
-1. Cap. 9.
+    _ Cap. 14.
 
-1. Cap. 10.
+1. ¶HIC INCIPIT LIber decimus de debitis laicorū que debentur ex diuersi contractibus vide licet ex venditione, emptione, donatione, mutuo, commodato, locato, conducto, et de plegiis et vadiis, siue mobilibus siue immobilibus et de cartis debita continentibus
 
-1. Cap. 11.
+    _ Cap. .i.
 
-1. Cap. 12.
+    _ Cap. 2.
 
-1. Cap. 13,
+    _ Cap. 3.
 
-1. Cap. 14.
+    _ Cap 4.
 
-1. Cap. 15.
+    _ Cap. 5.
 
-1. Cap. 16.
+    _ Cap. 6.
 
-1. Cap. 17.
+    _ Cap. 7.
 
-1. Cap 18.
+    _ Cap. 8.
 
-1. Cap. 1.
+    _ Cap. 9.
 
-1. Cap. 2.
+    _ Cap. 10.
 
-1. Cap. 3.
+    _ Cap. 11.
 
-1. Cap. 4.
+    _ Cap. 12.
 
-1. Cap. 5.
+    _ Cap. 13,
 
-1. Cap. 1.
+    _ Cap. 14.
 
-1. Cap. 2.
+    _ Cap. 15.
 
-1. Cap. 3.
+    _ Cap. 16.
 
-1. Cap. 4.
+    _ Cap. 17.
 
-1. Cap. 5.
+    _ Cap 18.
 
-1. Cap. 6.
+1. ¶HIC INCIPIT LIber vndecimus de responsali. bus qui loco dominorum ponuntur in curia ad lucrandum et perden: dum pro eis.
 
-1. Cap 7.
+    _ Cap. 1.
 
-1. Cap. 8.
+    _ Cap. 2.
 
-1. Cap. 9.
+    _ Cap. 3.
 
-1. Cap. 10.
+    _ Cap. 4.
 
-1. Cap. 11.
+    _ Cap. 5.
 
-1. Cap. 12,
+1. ¶HIC INCIPIT LIber duodecimus de placito de recto et de diuersis breuibus Regis de recto vicecomitibus, vel dominis feodi direct•• super diuersis casibus.
 
-1. Cap. 13.
+    _ Cap. 1.
 
-1. Cap. 14.
+    _ Cap. 2.
 
-1. Cap. 15.
+    _ Cap. 3.
 
-1. Cap. 16.
+    _ Cap. 4.
 
-1. Cap. 17.
+    _ Cap. 5.
 
-1. Cap. 18.
+    _ Cap. 6.
 
-1. Cap 19.
+    _ Cap 7.
 
-1. Cap 20,
+    _ Cap. 8.
 
-1. Cap. 21.
+    _ Cap. 9.
 
-1. Cap. 22.
+    _ Cap. 10.
 
-1. Cap 23.
+    _ Cap. 11.
 
-1. Cap. 24.
+    _ Cap. 12,
 
-1. Cap. 25.
+    _ Cap. 13.
 
-1. Capitulo. 1.
+    _ Cap. 14.
 
-1. Cap. 2.
+    _ Cap. 15.
 
-1. Cap. 3.
+    _ Cap. 16.
 
-1. Cap. 4.
+    _ Cap. 17.
 
-1. Cap 5.
+    _ Cap. 18.
 
-1. Cap. 6.
+    _ Cap 19.
 
-1. Cap, 7.
+    _ Cap 20,
 
-1. Ca. 8.
+    _ Cap. 21.
 
-1. Cap 9.
+    _ Cap. 22.
 
-1. Cap. 10.
+    _ Cap 23.
 
-1. Cap. 11,
+    _ Cap. 24.
 
-1. Cap. 12.
+    _ Cap. 25.
 
-1. Cap. 13.
+1. ¶HIC INCIPIT LIber decimus tercius de placius per assisas et recognitiones et de diuersis disseisinis.
 
-1. Cap. 14.
+    _ Capitulo. 1.
 
-1. Cap 15.
+    _ Cap. 2.
 
-1. Cap 16.
+    _ Cap. 3.
 
-1. Cap 17.
+    _ Cap. 4.
 
-1. Cap. 18.
+    _ Cap 5.
 
-1. Cap. 19.
+    _ Cap. 6.
 
-1. Cap. 20.
+    _ Cap, 7.
 
-1. Cap. 21.
+    _ Ca. 8.
 
-1. Cap. 22.
+    _ Cap 9.
 
-1. Cap. 23.
+    _ Cap. 10.
 
-1. Cap. 24.
+    _ Cap. 11,
 
-1. Cap 25.
+    _ Cap. 12.
 
-1. Cap. 26.
+    _ Cap. 13.
 
-1. Cap. 27,
+    _ Cap. 14.
 
-1. Cap 28.
+    _ Cap 15.
 
-1. Cap. 29.
+    _ Cap 16.
 
-1. Cap. 30.
+    _ Cap 17.
 
-1. Cap. 31.
+    _ Cap. 18.
 
-1. Ca. 32.
+    _ Cap. 19.
 
-1. Cap. 33.
+    _ Cap. 20.
 
-1. Cap. 34.
+    _ Cap. 21.
 
-1. Ca 35.
+    _ Cap. 22.
 
-1. Cap 36.
+    _ Cap. 23.
 
-1. Cap, 37.
+    _ Cap. 24.
 
-1. Cap. 38.
+    _ Cap 25.
 
-1. Cap. 39.
+    _ Cap. 26.
 
-1. Cap. 1.
+    _ Cap. 27,
 
-1. Cap. 2.
+    _ Cap 28.
 
-1. Cap. 3.
+    _ Cap. 29.
 
-1. Cap. 4.
+    _ Cap. 30.
 
-1. Cap. 5.
+    _ Cap. 31.
 
-1. Cap. 6.
+    _ Ca. 32.
 
-1. Cap. 7.
+    _ Cap. 33.
 
-1. Cap. 8.
+    _ Cap. 34.
+
+    _ Ca 35.
+
+    _ Cap 36.
+
+    _ Cap, 37.
+
+    _ Cap. 38.
+
+    _ Cap. 39.
+
+1. ¶HIC INCIPIT LIber decmus quartus de placi•is criminalibus ad coronam do: mini Regis spectantibus.
+
+    _ Cap. 1.
+
+    _ Cap. 2.
+
+    _ Cap. 3.
+
+    _ Cap. 4.
+
+    _ Cap. 5.
+
+    _ Cap. 6.
+
+    _ Cap. 7.
+
+    _ Cap. 8.
 
 #####Back#####
-Tractatus de legibus et consuetudinibus regni Anglie, tempore Regis Henrici secundi compositus, Iust
+
+1. Capitula libri primi de placitis que pert•nent ad curiam Regis vel ad vicecomitem Et de essoniis et aliis prepreparatoriis que solent in placitis 〈◊〉 uenire vsquequo ambe partes simul appareant in Curia.
+
+1. Errata impressotis que nimia festinatione absoluendi operis incidere. Ea sic castigabis.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
